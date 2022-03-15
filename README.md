@@ -1,16 +1,13 @@
-### Hi there 👋
+![readme_header](https://user-images.githubusercontent.com/5504777/158308299-bc1ffdac-0526-4da7-b395-8384f2dd79b6.jpg)
+# Hi! I'm Kole and this is my digital garden! 
 
-<!--
-**kolbigray/kolbigray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a graduate student at Georgia State University, completing a master's program in bioinformatics and biochemistry. Outside of school, 
+I work as the Director of Operations for an e-commerce retail start-up. In my free time, I'm always learning, painting, or volunteering my efforts
+to help with minimizing inequity and inequality within STEAM spaces for people of color. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm up to! 
+- 🧠 - Currently learning how to do neat things with data science. 
+- 🛠️- Currently working on a data visualization project where I analyze trends in my music listening habits. I'm also curently rebuilding my personal blog. 
+- 📚 - Currently reading "To Paradise" by Hanya Yanagihara
+- 📫 - Reach me on Twitter @kolbigray or the contact form on my website, www.kolbigray.com! 
+- 😄 - Pronouns are He/Him/His
