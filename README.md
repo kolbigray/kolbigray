@@ -11,3 +11,11 @@ to help with minimizing inequity and inequality within STEAM spaces for people o
 - 📚 - Currently reading "To Paradise" by Hanya Yanagihara
 - 📫 - Reach me on Twitter @kolbigray or the contact form on my website, www.kolbigray.com! 
 - 😄 - Pronouns are He/Him/His
+
+## 👨🏽‍💻 Current Use Stack
+
+- 💻 - Softwares: Todoist, Cockify, Spotify, BeFocused, Amethyst, Ulysses
+- 🖊️ - Languages I program in: Python, R, Java, JavaScript, HTML, CSS, Bash,
+- ⚙️ - Favorite customizations: Dracula Pro theme, Dark Mode, AstroVim, OhMyZSH
+- 🎧 - Favorite work gear: Zojirushi Flask, AER Tech Pack 2, Sony 1000XM4, Leuchtturm 1917, Appointed Day Planner, Zebra Sarasa Mark on 0.4 mm
+
